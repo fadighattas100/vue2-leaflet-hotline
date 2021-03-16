@@ -1,11 +1,23 @@
 # vue2-leaflet-hotline
 
+This is a fork of [ikmolbo vue2-leaflet-hotline plugin](https://github.com/ikmolbo/vue2-leaflet-hotline),
+that solve the [issue](https://github.com/ikmolbo/vue2-leaflet-hotline/issues/1) of intermediate value Error,
+and provide a demo like the original [Leaflet.hotline](https://github.com/iosphere/Leaflet.hotline) 
+[demo](https://iosphere.github.io/Leaflet.hotline/demo/)
+
 This is a [hotline plugin](https://github.com/iosphere/Leaflet.hotline) extension for [vue2-leaflet package](https://github.com/KoRiGaN/Vue2Leaflet)
 
 ## Install
 
     npm install --save vue2-leaflet-hotline
 
+## For Demo Install
+
+    npm install leaflet vue2-leaflet --save
+
+## Demo
+You can use the Demo.vue component, or check demo
+     
 ## Usage
 
 ### In &lt;template&gt; add
